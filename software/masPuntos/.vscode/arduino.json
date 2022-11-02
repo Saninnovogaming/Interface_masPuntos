@@ -1,0 +1,5 @@
+{
+    "configuration": "usb_cfg=usb_serial,opt=osstd",
+    "board": "stm32duino:STM32F4:blackpill_f401",
+    "sketch": "masPuntos.ino"
+}
